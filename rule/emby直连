@@ -1,0 +1,7 @@
+# NAME: emby直连规则
+# AUTHOR: wolfling
+# REPO: https://github.com/wolfling45/Custom_OpenClash_Rules
+
+
+DOMAIN-SUFFIX,makima.online  #fac机场服
+DOMAIN-SUFFIX,cdn.jiashule.com  #fac机场服cdn线路
